@@ -1,6 +1,6 @@
 # TestingAplicaciones-Nombre-TPO
 ## Nombre del equipo
-- "nombre del equi"
+- "Nombre del equipo"
 
 ##integrantes
 -"Armoa Antonella Integrante 1"
