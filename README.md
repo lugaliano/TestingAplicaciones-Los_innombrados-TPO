@@ -1,8 +1,10 @@
-# TestingAplicaciones-Nombre-TPO
-## Nombre del equipo
-- "Nombre del equipo"
+# TestingAplicaciones-Los_innombrables-TPO
+## Testing de aplicaciones: Trabajo Prcatico Obligatorio
 
-##integrantes
+## "Nombre del equipo"
+- Los innombrables
+
+##Integrantes
 -"Armoa Antonella Integrante 1"
 -"Morabito Guido Integrante 2"
 -"Lucia Galiano Integrante 3"
