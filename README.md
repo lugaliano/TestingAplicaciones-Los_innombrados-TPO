@@ -1,8 +1,8 @@
-# TestingAplicaciones-Los_innombrables-TPO
+# TestingAplicaciones-Los_innombrados-TPO
 ## Testing de aplicaciones: Trabajo Prcatico Obligatorio
 
 ## "Nombre del equipo"
-- Los innombrables
+- Los innombrados
 
 ##Integrantes
 -"Armoa Antonella Integrante 1"
