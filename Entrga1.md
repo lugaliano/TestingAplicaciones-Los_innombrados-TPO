@@ -17,11 +17,11 @@ CP4: Se supera la cantidad de intentos
 PE-53 Modificar cuenta
 prioridad media
 
-Fuera de alcance: modificar mas de una vez el dn, usuario o mail
 CP1: Cambiar varias veces contraseña, direccion, nacimiento, telefono
 CP2: Agregar un segundo mail y cambiarlo varias veces
-CP3: Nueva contraseñay confirmar contraseña no son iguales
+CP3: Nueva contraseña y confirmar contraseña no son iguales
 CP4: primer mail igual al segundo mail
+CP5: vieja contraseña = nueva contraseña
 
 PE.44 Agregar productos al carrito de compra
 Prioridad alta
