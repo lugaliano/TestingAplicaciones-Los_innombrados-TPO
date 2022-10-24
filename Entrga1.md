@@ -15,7 +15,7 @@ CP3: El mail y/o password son invalidos
 CP4: Se supera la cantidad de intentos
 
 PE-53 Modificar cuenta
-prioridad media
+Prioridad media
 
 CP1: Cambiar varias veces contraseña, direccion, nacimiento, telefono
 CP2: Agregar un segundo mail y cambiarlo varias veces
@@ -30,7 +30,7 @@ CP1: Compra de producto sin stock
 CP2:Camino feliz
 
 PE-10 Acceder al home
-prioridad alta
-CP1: Link roto
-CP2: click derecho en el link
-CP3: camino feliz
+Prioridad alta
+
+CP1: camino feliz
+Aclaracion: En un futuro, se haran casos de prueba correspondiente a la situacion. Por el momento, como se muestra solo un esqueleto no podemos realizar casos de prueba todavia.
