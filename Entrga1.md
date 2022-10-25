@@ -40,3 +40,6 @@ Prioridad alta
 CP1: Que los navegadores soportan el esqueleto(preguntar:??)
 
 Aclaración: En un futuro, se harán casos de prueba correspondiente a la situación. Por el momento, como se muestra solo un esqueleto no podemos realizar casos de prueba todavía.
+
+Link: https://docs.google.com/document/d/15169kuD_EI_1QHvLNGrTtvEKFtnDRSBF2iDiQd9B4o8/edit?usp=sharing
+Link excel: https://docs.google.com/spreadsheets/d/1SagpPcx_67NyHWzthslXQXElnlQmW-35QTY-2TAVuVM/edit?usp=sharing
