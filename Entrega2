@@ -1,0 +1,11 @@
+Modulo 1
+
+1)a)Los casos de prueba no aseguran el cumplimiento del requisito, porque probar en sí no asegura que la aplicación funcione como está esperado. 
+Pueden surgir nuevos inconvenientes, ya que estas pruebas solo están planteadas en ideas conceptuales del proyecto. El analisis exploratorio, que está mas cerca del uso
+que le dará el usuario y con parte de la app ya creada, puede acercarnos más a saber si cumple los requisitos de aceptación.
+
+b)Sí, ya que en el sprint anterior no teniamos codigo ni app que probar. Eran ideas y descripciones sobre como se planeaba que funcionaría la app.
+
+c)Nos encontramos con casos de pueba que no podían desviarse mucho del "camino feliz" o que los elementos que nos daban para probar tenian muchas limitantes no 
+explicitadas anteriormente o que no se sabía hasta que instancia del proceso abarcaba el caso. Fueron ideas muy generales en sus casos de uso y 
+que a medida que se pedían más especificaciones, las ideas de casos de prueba se limitaban hasta lo absurdo.
