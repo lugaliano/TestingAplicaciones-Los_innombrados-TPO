@@ -19,3 +19,13 @@ link doc: https://docs.google.com/document/d/1e0eJOT-CEMXRUSf2rrJ1ubaroFoWveNfnl
 
 Modulo 2
 plantillas: https://docs.google.com/spreadsheets/d/19vhNwNM-y0vnw6yLmHq42nrwx9rgMqb-03FppO9I8V0/edit#gid=0 
+
+PE-16: Como usuario quiero poder Crear mi cuenta para comprar productos
+Camino feliz: el usuario se registra exitosamente --> Antonella
+Usuario no registrado deja campos vacios --> Guido
+
+PE-54: Como usuario quiero poder iniciar sesión
+Camino feliz, se ingresa a la cuenta correctamente --> Antonia
+
+PE-53: Como Usuario quiero poder modificar mi cuenta
+Cambios varios en la cuenta --> Lucia
