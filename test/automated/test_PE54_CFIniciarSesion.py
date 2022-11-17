@@ -30,4 +30,6 @@ class TestPE54CaminoFeliziniciarsesin():
     self.driver.find_element(By.ID, "searchBox").click()
     self.driver.find_element(By.ID, "searchBox").send_keys("dress")
     self.driver.find_element(By.ID, "searchButton").click()
-  
+    #Asert agregado por Los innombrados
+    user_name= self.driver.find_element(By.CLASS_NAME, "dropbtn").text
+    assert "Sample" in user_name
