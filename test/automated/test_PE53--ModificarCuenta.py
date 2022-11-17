@@ -26,14 +26,14 @@ class TestPE53ModificarCuenta():
     self.driver.find_element(By.CSS_SELECTOR, "p:nth-child(4)").click()
     self.driver.find_element(By.NAME, "address1").click()
     self.driver.find_element(By.NAME, "address1").click()
-    self.driver.find_element(By.NAME, "address1").send_keys("CABA Independencia 889")
+    self.driver.find_element(By.NAME, "address1").send_keys("Independencia889")
     self.driver.find_element(By.CSS_SELECTOR, "p:nth-child(3)").click()
     self.driver.find_element(By.CSS_SELECTOR, "input:nth-child(11)").click()
-    self.driver.find_element(By.CSS_SELECTOR, "p:nth-child(4)").click()
 
     dire = self.driver.find_element(By.NAME, "address1").text
-    assert "CABA Independencia 889" in dire
+    assert "Independencia 889" in dire
 
+    self.driver.find_element(By.CSS_SELECTOR, "p:nth-child(4)").click()
     self.driver.find_element(By.NAME, "address1").send_keys("Chile665")
     self.driver.find_element(By.CSS_SELECTOR, "input:nth-child(11)").click()
 
