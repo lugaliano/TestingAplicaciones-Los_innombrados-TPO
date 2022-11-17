@@ -17,8 +17,8 @@ claras de respuestas ante los inconvenientes.
 
 link doc: https://docs.google.com/document/d/1e0eJOT-CEMXRUSf2rrJ1ubaroFoWveNfnl5UM8_DrrU/edit
 
-Modulo 2
-plantillas: https://docs.google.com/spreadsheets/d/19vhNwNM-y0vnw6yLmHq42nrwx9rgMqb-03FppO9I8V0/edit#gid=0 
+Modulo 2 y 3
+plantillas de cp en ejecución y sesiones de testing exploratorio: https://docs.google.com/spreadsheets/d/19vhNwNM-y0vnw6yLmHq42nrwx9rgMqb-03FppO9I8V0/edit#gid=0 
 
 PE-16: Como usuario quiero poder Crear mi cuenta para comprar productos
 CP6: Camino feliz: el usuario se registra exitosamente --> Antonella
