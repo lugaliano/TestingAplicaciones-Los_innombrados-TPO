@@ -24,8 +24,6 @@ class TestPE16Crearunnuevousuario():
     self.driver.find_element(By.LINK_TEXT, "Sign In").click()
     self.driver.find_element(By.LINK_TEXT, "Register here").click()
     self.driver.find_element(By.NAME, "email").click()
-    self.driver.find_element(By.NAME, "email").send_keys("test@gmail.com")
-    self.driver.find_element(By.NAME, "email").click()
     self.driver.find_element(By.NAME, "email").send_keys("test@ing.com")
     self.driver.find_element(By.ID, "password").click()
     self.driver.find_element(By.ID, "password").send_keys("abc123")
@@ -63,4 +61,7 @@ class TestPE16Crearunnuevousuario():
     element = self.driver.find_element(By.CSS_SELECTOR, "body")
     actions = ActionChains(self.driver)
     actions.move_to_element(element, 0, 0).perform()
+    #Assert de confirmación
+    user = self.driver.find_element(By.CLASS_NAME, "dropbtn").text
+    assert "Usuario" in user
   
