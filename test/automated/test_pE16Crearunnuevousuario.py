@@ -52,15 +52,6 @@ class TestPE16Crearunnuevousuario():
     self.driver.find_element(By.NAME, "password").click()
     self.driver.find_element(By.NAME, "password").send_keys("abc123")
     self.driver.find_element(By.CSS_SELECTOR, "p:nth-child(3) > input").click()
-    self.driver.find_element(By.ID, "searchBox").click()
-    self.driver.find_element(By.ID, "searchBox").send_keys("dress")
-    self.driver.find_element(By.ID, "searchButton").click()
-    element = self.driver.find_element(By.ID, "searchButton")
-    actions = ActionChains(self.driver)
-    actions.move_to_element(element).perform()
-    element = self.driver.find_element(By.CSS_SELECTOR, "body")
-    actions = ActionChains(self.driver)
-    actions.move_to_element(element, 0, 0).perform()
     #Assert de confirmación
     user = self.driver.find_element(By.CLASS_NAME, "dropbtn").text
     assert "Usuario" in user
